@@ -97,27 +97,27 @@ unsigned int tabspaces = 8;
 static const char *colorname[] = {
     /* 8 normal colors */
     [0] = "#000000", /* black   */
-    [1] = "#ff5555", /* red     */
-    [2] = "#50fa7b", /* green   */
-    [3] = "#f1fa8c", /* yellow  */
-    [4] = "#bd93f9", /* blue    */
-    [5] = "#ff79c6", /* magenta */
-    [6] = "#8be9fd", /* cyan    */
-    [7] = "#bbbbbb", /* white   */
+    [1] = "#ff637c", /* red     */
+    [2] = "#88ff1e", /* green   */
+    [3] = "#ecea00", /* yellow  */
+    [4] = "#3872f6", /* blue    */
+    [5] = "#ca72f7", /* magenta */
+    [6] = "#0fede1", /* cyan    */
+    [7] = "#d9d9d9", /* white   */
 
     /* 8 bright colors */
-    [8]  = "#44475a", /* black   */
+    [8]  = "#9fa3a3", /* black   */
     [9]  = "#ff5555", /* red     */
-    [10] = "#50fa7b", /* green   */
-    [11] = "#f1fa8c", /* yellow  */
-    [12] = "#bd93f9", /* blue    */
-    [13] = "#ff79c6", /* magenta */
-    [14] = "#8be9fd", /* cyan    */
-    [15] = "#ffffff", /* white   */
+    [10] = "#20c289", /* green   */
+    [11] = "#ffbf00", /* yellow  */
+    [12] = "#6773f4", /* blue    */
+    [13] = "#eb0077", /* magenta */
+    [14] = "#00d6ff", /* cyan    */
+    [15] = "#e9e9e9", /* white   */
 
     /* special colors */
-    [256] = "#1b202a", /* background */
-    [257] = "#e0f0ff", /* foreground */
+    [256] = "#0e1019", /* background */
+    [257] = "#e9e9e9", /* foreground */
 
 	/* more colors can be added after 255 to use with DefaultXX */
 	"#cccccc",
